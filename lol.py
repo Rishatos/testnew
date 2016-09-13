@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# lol
 import random
 n = random.randint(0, 10)
 print u"Я загадал число от 0 до 10."
